@@ -1,0 +1,9 @@
+.justify_content_center{
+    display: flex;
+    justify-content: center;
+    height: 25%;
+}
+.form_group{
+    padding-top: 20px;
+}
+
